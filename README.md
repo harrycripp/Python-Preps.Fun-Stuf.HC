@@ -1,1 +1,1 @@
-# Fun stuff-bant squad
+# EAST!!
