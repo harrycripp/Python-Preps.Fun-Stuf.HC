@@ -1,5 +1,6 @@
 # Henry William George Cripp
 # Supreme Chancellor of the Republic
+# Author
 # Jedi Grand Master
 # Minister of Magic
 # Order of Merlin 1st Class
