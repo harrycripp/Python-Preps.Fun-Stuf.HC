@@ -1,0 +1,16 @@
+#This programme will make you pay!! It will check that you are paying the ammount specified!!
+
+print("Welcome to Dee Dee's Space Dock")
+print("It will cost you Â£7000 per night to park your ship here")
+
+totalcoins = 0
+
+while totalcoins < 7000:
+    coins = int(input("Please enter some money to help us look after your vessel :)"))
+    totalcoins = totalcoins + coins
+    if totalcoins < 7000:
+        print("I belive we asked for more than that, please put in sufficient money, we're trying to help!!")
+    elif totalcoins == 7000:
+        print("Thank you so much for choosing dee dee's space docks!!")
+    else:
+        print("You have payed more than I asked but I'll just assume that it was a tip!! Thank You:)")
